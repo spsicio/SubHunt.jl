@@ -1,7 +1,7 @@
 name = "SubHunt"
 uuid = "a88f5ffd-3e7a-53ba-860a-e6b731d22c85"
 repo = "https://github.com/zsunberg/SubHunt.jl"
-version = "0.0.0"
+version = "0.0.1"
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
